@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kuraaken
-- 👀 I’m interested in coding, games, comic y japanese stuff.
+- 👀 I’m interested in coding, games, comics y japanese stuff.
 - 🌱 I’m currently learning blazor and react native.
 - 📫 How to reach me ... send me a DM on twitter 😄
 
